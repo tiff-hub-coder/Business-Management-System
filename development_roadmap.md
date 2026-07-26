@@ -6,7 +6,7 @@
 PROJECT STATUS
 
 Version 0.1
-Current Phase:
+Current Phase: 0.2
 Project Planning & System Design
 
 ===============================================================
@@ -14,25 +14,47 @@ VERSION 0.1
 PROJECT FOUNDATION
 ===============================================================
 
-[ ] Create GitHub Repository
-[ ] Create VS Code Project Folder
-[ ] Create README.md
-[ ] Create SYSTEM_DESIGN.md
-[ ] Create DEVELOPMENT_ROADMAP.md
-[ ] Create project folder structure
+[x] Create GitHub Repository
+[x] Create VS Code Project Folder
+[x] Create README.md
+[x] Create SYSTEM_DESIGN.md
+[x] Create DEVELOPMENT_ROADMAP.md
+[x] Create project folder structure
 
 ===============================================================
 VERSION 0.2
 APPLICATION FRAMEWORK
 ===============================================================
 
-[ ] Main Menu
-[ ] Client Administration Menu
+[X] Main Menu
+[X] Client Administration Menu
 [ ] Client Workspace
 [ ] Active Client Session
-[ ] Menu Navigation
-[ ] Input Validation
+[x] Menu Navigation
+[x] Input Validation
 [ ] Error Handling
+
+===============================================================
+VERSION 0.2 - FINAL TASKS
+===============================================================
+
+[ ] Refactor Workspace into its own controller function
+    - Create workspace_menu()
+    - Give it its own loop
+    - Return to Main Menu should break back to main()
+
+[ ] Connect Active Client Session
+    - Replace placeholder "None"
+    - Display currently selected client
+    - Keep placeholder until Version 0.3 creates clients
+
+[ ] Improve Error Handling
+    - Handle non-numeric menu input (ValueError)
+    - Prevent program crashes
+    - Redisplay current menu after invalid input
+
+---------------------------------------------------------------
+Ready for Version 0.3 once these are complete.
 
 ===============================================================
 VERSION 0.3

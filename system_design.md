@@ -475,7 +475,8 @@ CLIENT
 
 ---
 
-# 🌟 Development Philosophy
+# 
+ Development Philosophy
 
 > **Collect → Organise → Process → Analyse → Recommend**
 
@@ -489,11 +490,8 @@ Every feature in the system should support one or more of these five stages:
 
 ---
 
-## One enhancement I'd like us to make later
+## **Home Dashboard**
 
-Once the console version is complete, I'd love to add a **Home Dashboard** immediately after login. Instead of opening to a plain menu, the consultant would first see a summary of their entire client portfolio:
-
-```text
 ====================================================
  BUSINESS MANAGEMENT & ANALYTICS SYSTEM
 ====================================================
@@ -513,5 +511,3 @@ Monthly Revenue    : R8,432,510
 3. Save Data
 4. Exit
 ```
-
-That gives the application a polished, professional feel and reinforces that the user is managing a portfolio of businesses rather than working with a single company. I think it will make a fantastic first impression when someone opens your GitHub project or you demonstrate it during an interview.

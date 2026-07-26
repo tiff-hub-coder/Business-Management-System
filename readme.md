@@ -117,3 +117,11 @@
     ## Author
 
         Created by Tiffany as part of a practical software development and data analytics learning journey.
+
+    ## Why I Built This Project
+
+        I wanted to move beyond small Python exercises and build a complete application that grows alongside my skills.
+
+        Instead of creating many unrelated projects, I chose to develop one business management system over time, gradually adding new functionality as I learned Python, SQL, data analytics, and business intelligence.
+
+        This approach allows me to apply each new concept to a realistic software project while documenting my progress through GitHub.
