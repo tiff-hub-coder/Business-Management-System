@@ -6,7 +6,6 @@
 
 # Overall Application Flow
 
-```text
 ==========================================
  BUSINESS MANAGEMENT & ANALYTICS SYSTEM
 ==========================================
@@ -24,7 +23,6 @@ None
 
 # Client Administration
 
-```text
 ==========================================
  CLIENT ADMINISTRATION
 ==========================================
@@ -41,7 +39,6 @@ None
 
 # Open Client Workspace
 
-```text
 ==========================================
  OPEN CLIENT WORKSPACE
 ==========================================
@@ -49,11 +46,9 @@ None
 Enter Client Code:
 
 > BUS-0001
-```
 
 If found:
 
-```text
 ✓ Client Found
 
 Business:
@@ -75,7 +70,6 @@ Loading Workspace...
 
 # Client Workspace
 
-```text
 ====================================================
  BUSINESS MANAGEMENT & ANALYTICS SYSTEM
 ====================================================
@@ -108,7 +102,6 @@ Hybrid
 
 # Customer Management
 
-```text
 CUSTOMER MANAGEMENT
 
 1. Add Customer
@@ -123,7 +116,6 @@ CUSTOMER MANAGEMENT
 
 # Employee Management
 
-```text
 EMPLOYEE MANAGEMENT
 
 1. Add Employee
@@ -138,7 +130,6 @@ EMPLOYEE MANAGEMENT
 
 # Supplier Management
 
-```text
 SUPPLIER MANAGEMENT
 
 1. Add Supplier
@@ -153,7 +144,6 @@ SUPPLIER MANAGEMENT
 
 # Offerings
 
-```text
 OFFERINGS
 
 1. Add Offering
@@ -168,7 +158,6 @@ OFFERINGS
 
 # Sales & Transactions
 
-```text
 SALES & TRANSACTIONS
 
 1. Create Invoice
@@ -183,7 +172,6 @@ SALES & TRANSACTIONS
 
 # Financial Management
 
-```text
 FINANCIAL MANAGEMENT
 
 1. Revenue
@@ -198,7 +186,6 @@ FINANCIAL MANAGEMENT
 
 ## Revenue
 
-```text
 REVENUE
 
 1. Record Monthly Revenue
@@ -212,7 +199,6 @@ REVENUE
 
 ## Expenses
 
-```text
 EXPENSES
 
 1. Supplier Expenses
@@ -226,7 +212,6 @@ EXPENSES
 
 ## Payroll
 
-```text
 PAYROLL
 
 1. Calculate Payroll
@@ -239,7 +224,6 @@ PAYROLL
 
 ## Financial Statements
 
-```text
 FINANCIAL STATEMENTS
 
 1. Income Statement
@@ -253,7 +237,6 @@ FINANCIAL STATEMENTS
 
 # Reports
 
-```text
 REPORTS
 
 1. Business Profile
@@ -270,7 +253,6 @@ REPORTS
 
 # Analytics Centre
 
-```text
 ANALYTICS CENTRE
 
 1. Business Analytics
@@ -286,7 +268,6 @@ ANALYTICS CENTRE
 
 # Business Analytics
 
-```text
 BUSINESS ANALYTICS
 
 • Revenue Growth
@@ -300,7 +281,6 @@ BUSINESS ANALYTICS
 
 # Customer Analytics
 
-```text
 CUSTOMER ANALYTICS
 
 • Highest Spending Customer
@@ -314,7 +294,6 @@ CUSTOMER ANALYTICS
 
 # Employee Analytics
 
-```text
 EMPLOYEE ANALYTICS
 
 • Payroll Analysis
@@ -327,7 +306,6 @@ EMPLOYEE ANALYTICS
 
 # Supplier Analytics
 
-```text
 SUPPLIER ANALYTICS
 
 • Largest Supplier
@@ -339,7 +317,6 @@ SUPPLIER ANALYTICS
 
 # Product & Service Analytics
 
-```text
 PRODUCT & SERVICE ANALYTICS
 
 • Best-selling Offering
@@ -354,7 +331,6 @@ PRODUCT & SERVICE ANALYTICS
 
 # Business Health Insights
 
-```text
 BUSINESS HEALTH INSIGHTS
 
 ✓ Revenue increased by 12%
@@ -375,7 +351,6 @@ overall profit margin.
 
 # Application Architecture
 
-```text
 Main Menu
      │
      ├── Client Administration
@@ -412,7 +387,6 @@ Main Menu
 
 # Data Relationship Diagram
 
-```text
                            CONSULTANT
                                 │
                                 ▼
@@ -447,7 +421,6 @@ Main Menu
 
 # Database Relationship (Future SQL)
 
-```text
 CLIENT
 │
 ├── Customers
@@ -475,8 +448,7 @@ CLIENT
 
 ---
 
-# 
- Development Philosophy
+# Development Philosophy
 
 > **Collect → Organise → Process → Analyse → Recommend**
 

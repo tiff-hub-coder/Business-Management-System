@@ -40,26 +40,31 @@ VERSION 0.3
 CLIENT MANAGEMENT
 ===============================================================
 
-[ ] Generate Business IDs
-[ ] Register Client
-[ ] View Clients
-[ ] Search Client
-[ ] Edit Client
-[ ] Delete Client
+[x] Generate Business IDs
+[x] Register Client
+[x] View Clients
+[x] Search Client
+[x] Edit Client
+[x] Delete Client
 
 ===============================================================
 VERSION 0.4
 CUSTOMER MANAGEMENT
 ===============================================================
 
-[ ] Customer IDs
-[ ] Add Customer
-[ ] View Customers
-[ ] Search Customer
-[ ] Edit Customer
-[ ] Delete Customer
-[ ] Customer Categories
-[ ] Loyalty Membership
+[x] Customer IDs
+[x] Add Customer
+[x] View Customers
+[x] Search Customer
+[x] Edit Customer
+[x] Delete Customer
+[x] Customer Categories
+[x] Loyalty Membership
+
+PS. Used a boolean placeholder for loyalty membership,
+customer categories will be introduced in a future version,
+alongside a configurable loyalty system.
+
 
 ===============================================================
 VERSION 0.5
