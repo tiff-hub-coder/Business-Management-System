@@ -71,12 +71,12 @@ VERSION 0.5
 EMPLOYEE MANAGEMENT
 ===============================================================
 
-[ ] Employee IDs
-[ ] Add Employee
-[ ] View Employees
-[ ] Search Employee
-[ ] Edit Employee
-[ ] Delete Employee
+[x] Employee IDs
+[x] Add Employee
+[x] View Employees
+[x] Search Employee
+[x] Edit Employee
+[x] Delete Employee
 [ ] Payroll Preparation
 
 ===============================================================
@@ -84,12 +84,12 @@ VERSION 0.6
 SUPPLIER MANAGEMENT
 ===============================================================
 
-[ ] Supplier IDs
-[ ] Add Supplier
-[ ] View Suppliers
-[ ] Search Supplier
-[ ] Edit Supplier
-[ ] Delete Supplier
+[x] Supplier IDs
+[x] Add Supplier
+[x] View Suppliers
+[x] Search Supplier
+[x] Edit Supplier
+[x] Delete Supplier
 
 ===============================================================
 VERSION 0.7
